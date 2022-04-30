@@ -9,4 +9,4 @@ DeuxWorld/DeuxWorld is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-- 4/30/2022: I'm currently working on a Discord Auto Reminder Bot that is user friendly
+- 4/30/2022: I'm currently working on a Discord Auto Reminder Bot that is user friendly (In Progress)
